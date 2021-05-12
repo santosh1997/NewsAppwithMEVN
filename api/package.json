@@ -13,7 +13,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.2",
     "mysql": "^2.15.0",
-    "nodemailer": "^4.4.1",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.13.3",
     "random-number": "0.0.9",
     "watson-developer-cloud": "^3.4.0"
