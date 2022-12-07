@@ -9,9 +9,9 @@
   "author": "Santosh",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.4",
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "mysql": "^2.15.0",
     "nodemailer": "^4.4.1",
     "nodemon": "^1.13.3",
